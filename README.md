@@ -1,4 +1,14 @@
-# ExpenseBot MCP
+<p align="center">
+  <a href="https://www.expensebot.ai/mcp">
+    <img src="assets/expensebot.png" alt="ExpenseBot logo" width="160" height="160">
+  </a>
+</p>
+
+<h1 align="center">ExpenseBot MCP</h1>
+
+<p align="center">
+  Expense management and Gmail receipt capture for AI assistants and automation platforms.
+</p>
 
 Public installation and discovery metadata for the hosted ExpenseBot Model Context Protocol server.
 
@@ -59,6 +69,7 @@ The live server currently exposes more than 50 tools. Write actions use previews
 
 ## Documentation and support
 
+- ExpenseBot website: <https://www.expensebot.ai>
 - Setup guide: <https://www.expensebot.ai/mcp>
 - Practical prompt guide: <https://www.expensebot.ai/mcp-actions>
 - Privacy: <https://www.expensebot.ai/privacy>

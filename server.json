@@ -1,0 +1,37 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TotesMagotes/mcp-server-auth",
+  "title": "ExpenseBot",
+  "description": "Capture receipts, scan Gmail, analyze spending, and create reviewed reports from AI assistants.",
+  "repository": {
+    "url": "https://github.com/TotesMagotes/expensebot-mcp",
+    "source": "github"
+  },
+  "version": "0.6.19",
+  "websiteUrl": "https://www.expensebot.ai/mcp",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/TotesMagotes/expensebot-mcp/main/assets/expensebot.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.expensebot.ai/mcp"
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@expensebot/mcp-server-auth",
+      "version": "0.6.19",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
