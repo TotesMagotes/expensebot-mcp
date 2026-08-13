@@ -7,7 +7,7 @@
     "url": "https://github.com/TotesMagotes/expensebot-mcp",
     "source": "github"
   },
-  "version": "0.6.19",
+  "version": "0.6.20",
   "websiteUrl": "https://www.expensebot.ai/mcp",
   "icons": [
     {
@@ -28,7 +28,7 @@
     {
       "registryType": "npm",
       "identifier": "@expensebot/mcp-server-auth",
-      "version": "0.6.19",
+      "version": "0.6.20",
       "transport": {
         "type": "stdio"
       }
